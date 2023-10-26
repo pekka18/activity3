@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity3</string>
+    <string name="this_is_the_settings_page" />
+    <string name="settings" />
+</resources>
